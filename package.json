@@ -16,7 +16,6 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "prebuild": "rm -rf node_modules",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
